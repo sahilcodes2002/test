@@ -15,7 +15,7 @@
 
 
     
-    <h1 style="color :white; font-size: xx-large;"><b><a href="https://www.bing.com/images/create?" target="_blank">BING</a><header> WHAT IS AN 'AI' IMAGE GENERATOR </b> </h1> <header><i style="color: aliceblue;">created by Sahil</i></header> 
+    <h1 style="color :white; font-size: xx-large;"><b><a href="https://www.bing.com/images/create?" target="_blank">BING</a><header> WHAT IS AN 'AI' IMAGE GENERATOR  <header><i style="color: aliceblue;">created by Sahil</i></header> 
         <br>
         <br>
 
@@ -68,10 +68,8 @@
  </tr>
  </table>
 
- <header><p><h2 style="color: mediumvioletred;">To make your own AI image SIGN in to Microsoft Bing <a href="https://www.bing.com/images/create?" target="_blank">SIGN UP</h2></p></header>
+ <header><p><h2 style="color: mediumvioletred;">To make your own AI image SIGN in to Microsoft Bing <a href="https://www.bing.com/images/create?" target="_blank">SIGN UP
 <header><h1><a href="https://www.bing.com/images/create?" target="_blank">BING</a></h1></header>
 <header><iframe width="942" height="530" src="https://www.youtube.com/embed/cfCArxrQXgk" title="Introducing Image Creator from Microsoft Bing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></header>
 
 <header><p><h4>Thanks for visiting our webpage</h4></p></header>
-</body>
-</html>
